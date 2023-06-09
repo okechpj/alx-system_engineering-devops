@@ -1,1 +1,1 @@
-Task 1 - switch the current user to betty
+task 2 - script that prints effective username of current user
